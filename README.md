@@ -22,9 +22,8 @@
 ---
 
 
-<h2 align="center"><u><b>Conocimientos</b></u></h2>
+<h2 align="center"><u><b>Intereses</b></u></h2>
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
@@ -172,7 +171,7 @@
   </a> 
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Control de Versiones & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -194,7 +193,7 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">IDEs preferidas & Herramientas :</h3>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
@@ -284,7 +283,4 @@
     alt="example" />
 </p>
 
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
 
-Last Edited on: 09/09/2021
