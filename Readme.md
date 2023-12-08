@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
+  <img style="width:26rem; height:auto" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
 </p>
 
 <h3 align="center">Lenguajes</h3>
